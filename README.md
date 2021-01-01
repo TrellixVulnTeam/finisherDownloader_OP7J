@@ -1,4 +1,4 @@
-# finisherDownloader
+# Gamesdrive Downloader
 Script to download finisher site folders at once.\
 Sites supported: [ddl2](https://ddl2.finisher.site)\
                  [scarlet2](https://scarlet2.finisher.site)
