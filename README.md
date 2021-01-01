@@ -9,7 +9,7 @@ Sites tested: [ddl2](https://ddl2.finisher.site)\
 
 ## Downloading and Installing
 ### On Windows:
-  * Download the relased .zip file from [here](https://github.com/abhiraj2/finisherDownloader/releases/download/v0.1/Finisher_Downloader.zip)
+  * Download the relased .zip file from [here](https://github.com/abhiraj2/finisherDownloader/releases/tag/v0.2)
   * Extract the file and launch the main.exe application.
 ### On Linux:
   * Download the source code and launch the main.py file from the terminal 
