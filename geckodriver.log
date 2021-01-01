@@ -272,3 +272,67 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1609526676505	geckodriver	INFO	Listening on 127.0.0.1:58603
+1609526679243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofilee4XRcP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609526681744	Marionette	INFO	Listening on port 58611
+1609526681877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609526691139	Marionette	INFO	Stopped listening on port 58611
+1609526904683	geckodriver	INFO	Listening on 127.0.0.1:58695
+1609526907704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofilelqz6on"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609526909570	Marionette	INFO	Listening on port 58703
+1609526909735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609526918870	Marionette	INFO	Stopped listening on port 58703
+1609527048781	geckodriver	INFO	Listening on 127.0.0.1:58797
+1609527051803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofileXHAq2m"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609527053741	Marionette	INFO	Listening on port 58808
+1609527053851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609527063034	Marionette	INFO	Stopped listening on port 58808
+1609527141670	geckodriver	INFO	Listening on 127.0.0.1:58867
+1609527144691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofilepwYnP0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609527146935	Marionette	INFO	Listening on port 58875
+1609527147330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609527156523	Marionette	INFO	Stopped listening on port 58875
+1609527327742	geckodriver	INFO	Listening on 127.0.0.1:58956
+1609527330763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofileMMAvnx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609527333164	Marionette	INFO	Listening on port 58965
+1609527333404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609527342657	Marionette	INFO	Stopped listening on port 58965
+1609527402566	geckodriver	INFO	Listening on 127.0.0.1:59024
+1609527405587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofileaBF8ZW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609527407629	Marionette	INFO	Listening on port 59032
+1609527407735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609527417033	Marionette	INFO	Stopped listening on port 59032
+1609527576802	geckodriver	INFO	Listening on 127.0.0.1:59109
+1609527579823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofileMRP5j0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609527581653	Marionette	INFO	Listening on port 59117
+1609527581850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609527591037	Marionette	INFO	Stopped listening on port 59117
+1609527737321	geckodriver	INFO	Listening on 127.0.0.1:59201
+1609527740344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABHIRAJ\\AppData\\Local\\Temp\\rust_mozprofileHbiLST"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609527742130	Marionette	INFO	Listening on port 59209
+1609527742374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609527776480	Marionette	INFO	Stopped listening on port 59209

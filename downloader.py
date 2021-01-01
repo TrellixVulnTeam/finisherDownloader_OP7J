@@ -76,7 +76,7 @@ def downloader_main():
     for i in file_urls:
         location = find_all(i, sub_string)
         file_names.append(i.replace('%20', ' '))
-        file_names[file_urls.index(i)] = re.sub('^(https://ddl2.finisher.site/|https://scarlet2.finisher.site/)', '',
+        file_names[file_urls.index(i)] = re.sub(r'^https://.*?/', '',
                                                 file_names[file_urls.index(i)])
         file_names[file_urls.index(i)] = re.sub(':', '-', file_names[file_urls.index(i)])
         file_names[file_urls.index(i)] = re.sub('\?', '', file_names[file_urls.index(i)])
@@ -84,7 +84,7 @@ def downloader_main():
     for i in folder_urls:
         location = find_all(i, sub_string)
         folder_names.append(i.replace('%20', ' '))
-        folder_names[folder_urls.index(i)] = re.sub('^(https://ddl2.finisher.site/|https://scarlet2.finisher.site/)',
+        folder_names[folder_urls.index(i)] = re.sub(r'^https://.*?/',
                                                     '', folder_names[folder_urls.index(i)])
         folder_names[folder_urls.index(i)] = folder_names[folder_urls.index(i)].strip('\n')
         folder_names[folder_urls.index(i)] = re.sub(':', '-', folder_names[folder_urls.index(i)])
@@ -124,4 +124,4 @@ def downloader_main():
     f = open('debug_file.txt', 'w+')
     for i in skipped_files:
         f.write(str(i) + '\n')
-    print('You can check debug_file.txt for the file')
+    print('\nYou can check debug_file.txt for the skipped files\n')
