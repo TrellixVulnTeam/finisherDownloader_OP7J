@@ -5,7 +5,12 @@ Sites tested: [ddl2](https://ddl2.finisher.site)\
                  vallhalla.dyro.me
 
 
-**Note: You must have Chrome or Firefox installed.**
+**Note: You must have Chrome or Firefox (highly recommended) installed.**
+
+## Chrome Users:
+  * You'll need to use firefox.
+  * Else, you need to update chrome and download the latest stable version of chromedriver.exe from [here](https://chromedriver.chromium.org/downloads) (The version should match with the version of Chrome browser)
+  * Paste the chromedriver.exe file to a folder in PATH. I recommend C:\Windows\System32 folder as it is already added in your PATH variable
 
 ## Downloading and Installing
 ### On Windows:
