@@ -19,6 +19,7 @@ The process is the same on both Windows as well as Linux
   * After launching the program, you will be asked to enter the URL for the folder on the Finisher site.
   * Enter the URL and press Enter. 
   * Next the program will scrap the files and folders from the URL entered.
+  * **The program will ask you, if you want to change the download location. The default location is your Downloads folder. Press Y/y to change it or N/n to download it in the default location.**
   * After scraping, it will ask for the download location for the files. The default location is the Downloads folder.\
  That should be it, the program should download all the files in that folder including the subfolders.
  It should look something like this\
